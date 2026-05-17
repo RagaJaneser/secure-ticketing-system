@@ -198,9 +198,3 @@ npm start
 **Puneet Sethi**
 📧 mr.puneetsethi@gmail.com
 🔗 [GitHub](https://github.com/yourusername)
-
----
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
