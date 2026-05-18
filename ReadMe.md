@@ -4,12 +4,6 @@ A full-stack web application built for an EdTech platform focused on cybersecuri
 
 ---
 
-## 🚀 Live Demo
-
-> Coming Soon / [Add your live link here]
-
----
-
 ## 🛠️ Tech Stack
 
 | Layer    | Technology                 |
